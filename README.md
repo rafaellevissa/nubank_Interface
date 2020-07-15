@@ -19,7 +19,7 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 ## :art: Interface
 
-![nuBank](./doc/nubankUI.png)
+<img src="./doc/nubankUI.png" width="400px">
 
 ## :man_technologist: Autor
 
