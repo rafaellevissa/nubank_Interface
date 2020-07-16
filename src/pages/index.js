@@ -10,14 +10,15 @@ import {Container, SafeAreaView} from './styles';
 export default function Home(){
     let offset = 0;
     const translateY = new Animated.Value(0);
+    /*
     const animatedEvent = Animated.event(
-
+        todo            
     );
     
     function onHandlerStateChanged(event){
-
+        todo
     }
-
+    */
     return(
         <SafeAreaView>
             <Container>

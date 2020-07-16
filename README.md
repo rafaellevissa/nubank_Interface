@@ -53,7 +53,7 @@ Frameworks:
 ## :open_book: License
 
 Lançado em 2020.
-Este projeto está sob a [MIT license](https://github.com/rafaellevissa/nubank_interface/blob/master/LICENSE).
+Este projeto está sob a [MIT license](https://github.com/rafaellevissa/nubank_Interface/blob/master/LICENSE).
 
 <p align="center">
     Feito com :heart: por <a href="https://github.com/rafaelevissa">Rafael Levi</a>
