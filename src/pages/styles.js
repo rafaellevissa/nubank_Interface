@@ -11,3 +11,9 @@ export const Container = styled.View`
     background: #8B10AE;
     justify-content: center;
 `;
+
+export const Content = styled.View`
+    flex: 1;
+    max-height: 400px;
+    z-index: 5; 
+`;
