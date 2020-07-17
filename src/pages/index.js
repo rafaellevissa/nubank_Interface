@@ -18,7 +18,7 @@ export default function Home(){
         [
             {
                 nativeEvent:{
-                    translationY = translateY,
+                    translationY: translateY,
                 },
             },
         ], 
