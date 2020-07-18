@@ -40,3 +40,9 @@ export const SignOutButtonText = styled.Text`
     font-weight: bold;
     font-size: 13px;
 `;
+
+export const NavText = styled.Text`
+  font-size: 15px;
+  color: #FFF;
+  margin-left: 20px;
+`;

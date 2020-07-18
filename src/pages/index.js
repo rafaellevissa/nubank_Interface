@@ -86,6 +86,7 @@ export default function Home(){
                         </Card>
                     </PanGestureHandler>
                 </Content>
+                
             </Container>
         </SafeAreaView>
     );
